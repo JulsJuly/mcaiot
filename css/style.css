@@ -43,5 +43,6 @@ div {
   display: inline-block;
   position: absolute;
   height:100%;
+  background-image: url("../img/black-thread-light.png");
 
 }
