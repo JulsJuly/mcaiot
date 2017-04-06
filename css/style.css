@@ -18,31 +18,6 @@ div {
   //background: #000;
 }
 
-.one-forth {
-  width: 25%;
-  float: left;
-}
-
-.two-forth {
-  width: 50%;
-  float: left;
-}
-
-.three-forth {
-  width: 75%;
-  float: left;
-}
-
-.drawing_area {
-  display: inline-block;
-}
-
-.menu {
-  border-left: 0.1em black solid;
-  margin: -0.1em;
-  display: inline-block;
-  position: absolute;
-  height:100%;
-  background-image: url("../img/black-thread-light.png");
-
+canvas {
+  border: 1px solid black;
 }
