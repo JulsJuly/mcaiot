@@ -17,6 +17,29 @@ nav, .page-footer {
 .about .row {
   background-color: RGBA(241, 241, 241, 0.8);
 }
+
 .about {
   margin-top: 2%;
+}
+
+canvas {
+  width: 300px;
+  //height: 300px;
+  margin: 0 auto;
+  position: relative;
+  display: inline-block;
+}
+
+.range-field span {
+  display: none;
+}
+
+#imageCanvas_out {
+  background-image: url("https://goo.gl/images/JaGqPL);
+}
+
+.email {
+  color: rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  text-transform: capitalize;
 }
